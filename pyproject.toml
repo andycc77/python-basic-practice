@@ -8,6 +8,8 @@ packages = [{include = "poetry_demo"}]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+jupyter = "^1.0.0"
+autopep8 = "^2.0.1"
 
 
 [build-system]
